@@ -1,0 +1,2 @@
+
+The scripts used in this project to conduct cluster setup and Yarn configuration. The driver of all the files is "masterSetup.sh". To use it, put all the files into the home directory (~/) of the master node and run "./masterSetup.sh". The driver script will run all the other files automatically.
